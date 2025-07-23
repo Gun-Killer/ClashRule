@@ -1,2 +1,2 @@
 payload:
-  - DOMAIN,fastly-edge.com
+  - DOMAIN-SUFFIX,fastly-edge.com
